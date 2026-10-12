@@ -1,0 +1,29 @@
+{
+  "name": "figma-make-app",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "next dev --hostname 0.0.0.0 --port 3000",
+    "build": "NODE_ENV=production next build",
+    "preview": "next start --hostname 0.0.0.0 --port ${PORT:-3000}",
+    "format": "oxfmt"
+  },
+  "dependencies": {
+    "@marsidev/react-turnstile": "^1.6.1",
+    "@supabase/supabase-js": "^2.117.2",
+    "next": "^15.5.27",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.3.3",
+    "@types/node": "^22.0.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "oxfmt": "^0.2.0",
+    "postcss": "^8.5.28",
+    "tailwindcss": "^4.0.0",
+    "typescript": "^5.7.0"
+  }
+}
