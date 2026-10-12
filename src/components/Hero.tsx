@@ -143,7 +143,7 @@ export default function Hero() {
           <div className="hero-before-after relative aspect-[0.92] overflow-hidden rounded-[22px] bg-[#dceaf7] shadow-[0_25px_70px_rgba(45,92,130,0.14)] sm:aspect-[1.02] lg:aspect-[0.9]">
             {/* RELIEF IMAGE - BASE */}
             <img
-              src="/images/dental-relief.jpg"
+              src="/images/dental-relief.webp"
               alt="Patient smiling comfortably after dental treatment"
               className="absolute inset-0 h-full w-full object-cover object-center"
               fetchPriority="high"
@@ -152,7 +152,7 @@ export default function Hero() {
             {/* PAIN IMAGE - ANIMATED OVERLAY */}
             <div className="hero-pain absolute inset-0 overflow-hidden">
               <img
-                src="/images/dental-pain.jpg"
+                src="/images/dental-pain.webp"
                 alt="Patient experiencing tooth pain"
                 className="h-full w-full object-cover object-center"
               />

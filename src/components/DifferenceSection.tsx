@@ -3,7 +3,7 @@ const cards = [
     title: "Modern facilities",
     description:
       "Clean, comfortable spaces designed to help you feel relaxed from the moment you arrive.",
-    image: "/images/modern-facilities.jpg",
+    image: "/images/modern-facilities.webp",
     icon: (
       <svg
         viewBox="0 0 48 48"
@@ -34,7 +34,7 @@ const cards = [
     title: "Gentle care",
     description:
       "A kind and experienced team that puts your comfort and well-being first.",
-    image: "/images/gentle-care.jpg",
+    image: "/images/gentle-care.webp",
     icon: (
       <svg
         viewBox="0 0 48 48"
@@ -57,7 +57,7 @@ const cards = [
     title: "Healthy, confident smiles",
     description:
       "Personalized care plans to help you achieve a healthier smile that lasts.",
-    image: "/images/healthy-smile.jpg",
+    image: "/images/healthy-smile.webp",
     icon: (
       <svg
         viewBox="0 0 48 48"

@@ -100,7 +100,7 @@ export default function GuideSection() {
             <div className="relative overflow-hidden rounded-[30px]">
               <div className="aspect-[1.05] sm:aspect-[1.15] lg:aspect-[0.98]">
                 <img
-                  src="/images/dental-consultation-clean.png"
+                  src="/images/dental-consultation-clean.webp"
                   alt="Patient receiving dental care"
                   className="h-full w-full object-cover object-center"
                 />

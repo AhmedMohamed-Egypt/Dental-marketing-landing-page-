@@ -3,7 +3,8 @@ export default function About() {
     <section id="about" className="scroll-mt-8 bg-[#f1f4ee] py-24 md:py-32">
       <div className="page-container grid items-center gap-12 lg:grid-cols-2 lg:gap-24">
         <div className="relative">
-          <div className="aspect-[1.08] overflow-hidden rounded-[180px_180px_14px_14px] bg-[#dae6de] sm:aspect-[1.25] lg:aspect-[0.95]"><img src="/images/dental-studio.jpg" alt="Bright, modern dental treatment room" className="h-full w-full object-cover" loading="lazy" /></div>
+          <div className="aspect-[1.08] overflow-hidden rounded-[180px_180px_14px_14px] bg-[#dae6de] sm:aspect-[1.25] lg:aspect-[0.95]">
+            <img src="/images/dental-studio.webp" alt="Bright, modern dental treatment room" className="h-full w-full object-cover" loading="lazy" /></div>
           <div className="absolute -bottom-6 right-4 rounded-[16px] bg-[#193f3c] px-7 py-6 text-white shadow-xl sm:right-[-25px]">
             <span className="font-display text-[34px] italic leading-none">A space to exhale.</span>
           </div>

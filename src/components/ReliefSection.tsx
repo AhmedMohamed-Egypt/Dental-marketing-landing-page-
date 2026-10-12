@@ -123,7 +123,7 @@ export default function ReliefSection() {
     }}
   >
     <img
-      src="/images/dental-consultation-clean.png"
+      src="/images/dental-consultation-clean.webp"
       alt=""
       aria-hidden="true"
       className="h-full w-full object-cover object-[55%_45%]"
@@ -589,7 +589,7 @@ export default function ReliefSection() {
         <div className="relative z-40 mx-6 mb-6 overflow-hidden rounded-[20px] lg:hidden">
           <div className="aspect-[1.2]">
             <img
-              src="/images/dental-consultation.jpg"
+              src="/images/dental-consultation.webp"
               alt="Patient having a comfortable dental consultation"
               className="h-full w-full object-cover object-center"
             />
