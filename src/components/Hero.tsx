@@ -17,7 +17,7 @@ export default function Hero() {
             </em>
           </h1>
 
-          <p className="mt-8 max-w-[500px] text-[16px] leading-[1.75] text-[#61758e] md:text-[17px]">
+          <p className="hero-description">
             We’re here to help you find relief, restore your smile,
             and get back to your life without the discomfort.
           </p>
